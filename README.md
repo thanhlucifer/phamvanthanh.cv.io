@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pham Van THanh</h1>
+<h1 align="center">Hi 👋, I'm Pham Van Thanh</h1>
+<h1 align="center">MSSV: 2011064477</h1>
+<h1 align="center">CN: software technology</h1>
 <h3 align="center">As a BackEnd Developer in Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhlucifer&label=Profile%20views&color=0e75b6&style=flat" alt="thanhlucifer" /> </p>
